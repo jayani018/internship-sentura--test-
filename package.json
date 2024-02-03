@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "@weavy/uikit-react": "^19.1.2"
-  }
+    "@weavy/uikit-react": "^19.1.2",
+
+  },
+
 }
